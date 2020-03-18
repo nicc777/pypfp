@@ -19,7 +19,7 @@ setup(
     description='A Python parallel function processor - a demonstration of the Python multiprocessing library',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='http://localhost',
+    url='https://github.com/nicc777/pypfp',
     author='Nico Coetzee',
     author_email='nicc777@gmail.com',
     classifiers=[
